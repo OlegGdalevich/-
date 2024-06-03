@@ -83,4 +83,10 @@ a:hover {
         margin-right: 20%;
         margin-left: 15%;
     }
+    .red_bg li:active{
+        color: red;
+    }
+    .yellow_bg th:active ,td:active{
+        background-color: rgba(248, 248, 67, 0.452);
+    }
   }
